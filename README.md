@@ -57,7 +57,7 @@ This project contains two implementations of a terminal-based calculator that pe
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Ganeshpatnaik-cs/Python-cli-calculator.git
 cd <repo-name>
 
 # Run the basic version
@@ -139,7 +139,7 @@ Result: 42.0
 **Ganesh Chandra Patnaik**
 B.Tech in Computer Science and Engineering
 
-- GitHub: @GaneshPatnaik.cs
+- GitHub: @GaneshPatnaik-cs
 - LinkedIn: www.linkedin.com/in/ganesh-chandra-patnaik-cs
 
 ---
